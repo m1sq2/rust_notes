@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "926259106aba8a77",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c5dcd10f153e2e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "494e075cb108f47c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "main/Structs/Structs - Classes - OBJ.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "315e53f275a2774e",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e37d229e72c2ce7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f3ebb6ef3160470",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d2d9d8a0c277a8b8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "757dc3067a1c4ac2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "60387de1b9649e40",
+    "type": "split",
+    "children": [
+      {
+        "id": "73e5e26b978c1fbe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07a6450f07b62aab",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "main/Structs/Structs - Classes - OBJ.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "689db453424a2465",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "main/Structs/Structs - Classes - OBJ.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5bfa73465e5b4b01",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "95b5fc17823ba3c1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "main/Structs/Structs - Classes - OBJ.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "494e075cb108f47c",
+  "lastOpenFiles": [
+    "main/basic/Data Types.md",
+    "main/Structs/Structs - Classes - OBJ.md",
+    "main/Structs",
+    "main/basic/Control Flow.md",
+    "main/basic/Vectors.md",
+    "main/Ownership/Slice.md",
+    "main/basic",
+    "main/Ownership/String.md",
+    "main/Ownership/References and Borrowing.md",
+    "assets/Pasted image 20230617193804.png",
+    "main/Ownership/OwnerShip.md",
+    "extra/Syntax ; Operators and Symbols.md",
+    "extra/Integer Overflow.md",
+    "assets/Pasted image 20230617175951.png",
+    "assets/Pasted image 20230617175552.png",
+    "assets",
+    "extra/Stack and the Heap.md",
+    "main/Ownership",
+    "main/basic/Functions.md",
+    "Rust Doc.md",
+    "extra",
+    "main",
+    "main/basic/Variables and Mutability.md",
+    "Cargo.md"
+  ]
+}
